@@ -73,4 +73,4 @@ Koponen, J. & Hildén, J. (2019). Data Visualization Handbook. Aalto korkeakoulu
 
 - - - - 
 
-[clase 02](https://github.com/profesorfaco/troncal/blob/main/clase-02/README.md) →
+[clase 02](https://github.com/profesorfaco/troncal/blob/main/clase-02/README.md)
