@@ -97,3 +97,11 @@ Este electivo troncal se aprueba con nota final igual o superior a 4.0 y asisten
 - https://datavizcatalogue.com/ES/buscar.html
 
 - https://www.visual-literacy.org/periodic_table/periodic_table.html
+
+- https://developer.mozilla.org/es/docs/Web/HTML
+
+- https://developer.mozilla.org/es/docs/Web/CSS
+
+- https://developer.mozilla.org/es/docs/Web/JavaScript
+
+- https://developer.mozilla.org/es/docs/Web/SVG
