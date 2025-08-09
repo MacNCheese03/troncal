@@ -1,6 +1,6 @@
 # Diseño y visualización de información | Diseño mención Visual y Medios | Universidad de Chile
 
-Este es 1 de 3 electivos troncales de la mención Visual y Medios. Su condición "troncal" implica que: 
+Este es **1 de 3 electivos troncales de la mención Visual y Medios**. Su condición "troncal" implica que: 
 
 - los créditos SCT-Chile que le corresponden son 6, no 3 como otros electivos (ver https://sct-chile.consejoderectores.cl/que_es_sct_chile.php) 
 
