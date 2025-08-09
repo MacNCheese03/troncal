@@ -94,4 +94,6 @@ Este electivo troncal se aprueba con nota final igual o superior a 4.0 y asisten
 
 - https://guides.lib.berkeley.edu/data-visualization
 
-- otro…
+- https://datavizcatalogue.com/ES/buscar.html
+
+- https://www.visual-literacy.org/periodic_table/periodic_table.html
