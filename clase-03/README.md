@@ -20,23 +20,21 @@ Cada grupo debe escoger 1 de esas 5 visualizaciones.
 - Sandra Rendgen
 - Edward Tufte
 
-Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles.
+Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas–, sus reseñas, y la mayor cantidad de conferencias posibles en YouTube.
 
 **La cuarta parte se resuelve seleccionando a un/a profesional dedicado/a al diseño y visualización de información, entre**:
 
 - [**Adolfo Arranz**](https://www.perdigallos.com/)
-
 - [**Nicholas Felton**](https://feltron.com/)
-
 - [**Nigel Holmes**](https://nigelholmes.com/)
-
 - [**Giorgia Lupi**](https://giorgialupi.com/)
-
 - [**Nadja Popovich**](https://nadjapopovich.com/)
 
 Con la selección grupal hecha, corresponde seleccionar un par de videos en YouTube y preparar un resumen que ofrezca una introducción a su trabajo.
 
 **Y la quinta parte se resuelve preparando una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– en la que el grupo pueda compartir información sobre todo lo seleccionado**.
+
+Todo esto debe estar resuelto hasta las 17.00 hrs. Para que cada grupo pueda presentar al curso, en 15 minutos, su Pizarra Virtual.
 
 _ _ _ _ 
 
