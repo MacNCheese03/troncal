@@ -1,6 +1,6 @@
 # [Diseño y visualización de información](https://github.com/profesorfaco/troncal) → Clase 04 → 2 de septiembre
 
-### Sobre sesgos, la propagación de información errónea y la desinformación
+### Encargo y avance en segundo trabajo grupal, con evaluación sumativa → Sobre sesgos, la propagación de información errónea y la desinformación
 
 El trabajo consiste en preparar un informe escrito con un máximo de 3.500 palabras, en formato de [artículo científico o *paper*](https://bibliotecas.duoc.cl/documentos-academicos-y-presentaciones/formato-articulo-paper), después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda hablar de sesgos o desinformación vinculados a los medios digitales, dinámicos e interactivos.
 
