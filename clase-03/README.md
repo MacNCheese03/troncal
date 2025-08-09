@@ -1,10 +1,18 @@
 # [Diseño y visualización de información](https://github.com/profesorfaco/troncal) → Clase 03 → 26 de agosto
 
-### Hitos de historia de la visualización de datos e información
+### Trabajo grupal, con evaluación diagnóstica → Hitos de historia de la visualización de datos e información
 
-El trabajo se compone de dos partes:
+El trabajo se resuelve en 5 pasos:
 
-**La primera parte se resuelve seleccionando un/a autor/a entre**:
+**El primer paso** es reunirse en grupos. El total de grupos por curso deben ser 5. 
+
+**El segundo paso** se resuelve volviendo a algo indicado en la [primera clase](https://github.com/profesorfaco/troncal/tree/main/clase-01): 
+
+> Y los gráficos de William Playfair pueden conectarse con [*Las 5 visualizaciones de datos más influyentes de todos los tiempos*](https://www.tableau.com/es-es/learn/whitepapers/5-most-influential-visualizations).
+
+Cada grupo debe escoger 1 de esas 5 visualizaciones.
+
+**La tercera parte se resuelve seleccionando a un/a autor/a sobre temas de diseño y visualización de información, entre**:
 
 - Alberto Cairo
 - Manuel Lima
@@ -12,12 +20,9 @@ El trabajo se compone de dos partes:
 - Sandra Rendgen
 - Edward Tufte
 
-Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, entre lo encontrado, revisar aquello que podría considerarse como hitos en la historia de la visualización de información.
+Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles.
 
-Preparar una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado con una reseña de su autor/a seleccionada/o.
-
-
-Pero esta vez el grupo debe ver un par de videos, hacer un resumen de cada uno y buscar un tercero que pueda complementar una aproximación completa al trabajo de:
+**La cuarta parte se resuelve seleccionando a un/a profesional dedicado/a al diseño y visualización de información, entre**:
 
 - [**Adolfo Arranz**](https://www.perdigallos.com/)
 
@@ -28,6 +33,10 @@ Pero esta vez el grupo debe ver un par de videos, hacer un resumen de cada uno y
 - [**Giorgia Lupi**](https://giorgialupi.com/)
 
 - [**Nadja Popovich**](https://nadjapopovich.com/)
+
+Con la selección grupal hecha, corresponde seleccionar un par de videos en YouTube y preparar un resumen que ofrezca una introducción a su trabajo.
+
+**Y la quinta parte se resuelve preparando una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– en la que el grupo pueda compartir información sobre todo lo seleccionado**.
 
 _ _ _ _ 
 
