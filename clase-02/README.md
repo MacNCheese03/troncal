@@ -2,7 +2,7 @@
 
 ### Marco teórico para la visualización de datos e información
 
-El latín *datum* refiere a "lo que se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) como el singular de [*data*](https://www.merriam-webster.com/dictionary/data), razón por la que *data* se traduce como *datos*.
+El latín *datum* refiere a "lo que se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) como el singular de [*data*](https://www.merriam-webster.com/dictionary/data), razón por la que *data* se traduce como *datos*. En su uso habitual, *lo que se da* es útil para razonamientos, debates o cálculos.
 
 El griego *μετα* refiere a lo que está "más allá" o "después de" (esa es la razón de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica), denominando a los tratados de Aristóteles que iban más allá de *τα φυσικά*).
 
