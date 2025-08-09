@@ -6,13 +6,19 @@ Este es **1 de 3 electivos troncales de la mención Visual y Medios**. Su condic
 
 - los contenidos abordados en estas asignaturas se consideran, hoy por hoy, esenciales y basales para el desarrollo profesional de un/a Diseñador/a con mención Visual y Medios (ver https://ucampus.uchile.cl/m/fau_catalogo/programa?bajar=1&id=162258)
 
-Por lo definido en su programa, los contenidos abordados en **Diseño y visualización de información** permitirán a cada estudiante familiarizarse con las herramientas técnicas, conceptuales y metodológicas fundamentales para la creación, el diseño y la producción de sistemas de información y visualización de datos, de complejidades media-alta, que aporten al conocimiento de las ciudadanías, las comunidades y las personas por medio de contextos digitales, dinámicos e interactivos en línea.
+Por lo definido en su programa, los contenidos abordados en **Diseño y visualización de información** permitirán a cada estudiante 
+
+> familiarizarse con las herramientas técnicas, conceptuales y metodológicas fundamentales para la creación, el diseño y la producción de sistemas de información y visualización de datos, de complejidades media-alta, que aporten al conocimiento de las ciudadanías, las comunidades y las personas por medio de contextos digitales, dinámicos e interactivos en línea.
 
 Los contextos recién referidos implican trabajar con los lenguajes HTML, CSS y JavaScript, además de imágenes rasterizadas (JPG, PNG, WebP), gráficos vectoriales escalables (SVG) y formatos ligeros de intercambio de datos (JSON, CSV, XML); que son necesarios para desarrollar tableros de información (*dashboards*) e infografías digitales (cuando son interactivos y dinámicas).
 
-La novedad de las múltiples siglas del párrafo de arriba, exige una vuelta al asunto de los créditos: *El número de créditos corresponde al tiempo promedio que le tomará a cada estudiante lograr los aprendizajes del curso, expresado en horas de docencia directa (en sala de clases, videoconferencias, terrenos, laboratorios, etc.), y de trabajo autónomo (lectura, estudio, trabajos individuales y en equipo, etc.). En nuestra Universidad, un crédito corresponde a 27 horas semestrales (presenciales y no presenciales)*; siendo 6 los créditos del electivo troncal, se considera que son 162 horas las que corresponde al trabajo necesario para aprobarlo.
+La novedad de las múltiples siglas del párrafo de arriba, exige una vuelta al asunto de los créditos:
 
-En esa cantidad de horas de trabajo, corresponde *asumir la responsabilidad principal de su propia formación, con el apoyo y supervisión de su profesor y la interacción con sus pares*. 
+> El número de créditos corresponde al tiempo promedio que le tomará a cada estudiante lograr los aprendizajes del curso, expresado en horas de docencia directa (en sala de clases, videoconferencias, terrenos, laboratorios, etc.), y de trabajo autónomo (lectura, estudio, trabajos individuales y en equipo, etc.). En nuestra Universidad, un crédito corresponde a 27 horas semestrales (presenciales y no presenciales)
+
+**Siendo 6 los créditos del electivo troncal, se considera que son necesarias 162 horas de trabajo necesario para aprobarlo**.
+
+En esa cantidad de horas de trabajo, corresponde *asumir la responsabilidad principal de su propia formación, con el apoyo y supervisión de su profesor y la interacción con sus pares*.
 
 - - - - - - -
 
