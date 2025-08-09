@@ -18,12 +18,11 @@ Pero tal supuesto de progreso, tan positivista, es criticado ya desde hace algú
 
 - Weinberger, D. (2010). *The Problem with the Data-Information-Knowledge-Wisdom Hierarchy* → https://hbr.org/2010/02/data-is-to-info-as-info-is-not
 
-Incluso antes del surgimiento de desafíos tales como:
+Criticado incluso antes del surgimiento de desafíos tales como:
 
 - Los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta (ver [*Data Feminism*](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1))
 
 - Peters, M. A., Jandrić, P., & Green, B. J. (2024). *The DIKW model in the age of artificial intelligence* → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
-
 
 - - - - 
 
