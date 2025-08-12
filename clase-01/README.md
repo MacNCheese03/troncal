@@ -53,7 +53,7 @@ Y los gráficos de William Playfair pueden conectarse con [*Las 5 visualizacione
 
 Es evidente que esas 5 visualizaciones no se limitan a ser "gráfico de …". 
 
-Pero podemos partir en los "gráficos de…" para ir [más allá de la presentación visual de datos cuantitativos en una forma esquemática](https://www.visual-literacy.org/periodic_table/periodic_table.html), considerando que: *The purpose of [visualization](https://www.visual-literacy.org/periodic_table/periodic_table.html) is insights, not pictures* (Ben Shneiderman, como se cita en [Koponen & Hildén, 2019, p.190](https://www.datavizhandbook.info/)).
+Pero podemos partir en los "gráficos de…" para ir [más allá de la presentación visual de datos cuantitativos en una forma esquemática](https://www.visual-literacy.org/periodic_table/periodic_table.html), considerando que: *The purpose of [visualization](https://datavizcatalogue.com/ES/buscar.html) is insights, not pictures* (Ben Shneiderman, como se cita en [Koponen & Hildén, 2019, p.190](https://www.datavizhandbook.info/)).
 
 Ahora veamos si obtenemos algún *insight* con las visualizaciones de la [caracterización del curso](https://www.u-cursos.cl/fau/2025/2/AUD5V027/1/integrantes/stats).
 
