@@ -16,7 +16,9 @@ Esta definiciones corresponden a la [LEY 19.628 | SOBRE PROTECCION DE LA VIDA PR
 
 Ahora, para explorar algunos datos, aprovechemos una carpeta compartida: https://drive.google.com/drive/folders/1pvZCApwYXGVkbBiVmwjOQw6KrklK0W2t?usp=sharing
 
-Ahora, volviendo a las etimologías: El griego *μετα* refiere a lo que está "más allá" o "después de" (esa es la razón de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica), denominando a los tratados de Aristóteles que iban más allá de *τα φυσικά*).
+- - - - - - - 
+
+Volviendo a las etimologías: El griego *μετα* refiere a lo que está "más allá" o "después de" (esa es la razón de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica), denominando a los tratados de Aristóteles que iban más allá de *τα φυσικά*).
 
 Los metadatos van un paso más allá de lo que se da para los razonamientos, debates o cálculos. Este paso ofrece datos de los datos, con funciones descriptivas, estructurales o administrativas.
 
