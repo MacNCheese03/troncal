@@ -4,7 +4,17 @@
 
 El latín *datum* refiere a "lo que se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) como el singular de [*data*](https://www.merriam-webster.com/dictionary/data), razón por la que *data* se traduce como *datos*. En su uso habitual, *lo que se da* es útil para razonamientos, debates o cálculos.
 
-El griego *μετα* refiere a lo que está "más allá" o "después de" (esa es la razón de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica), denominando a los tratados de Aristóteles que iban más allá de *τα φυσικά*).
+En el ámbito legal local, corresponde diferenciar:
+
+**Dato estadístico**, el dato que, en su origen, o como consecuencia de su tratamiento, no puede ser asociado a un titular identificado o identificable.
+
+**Datos de carácter personal o datos personales**, los relativos a cualquier información concerniente a personas naturales, identificadas o identificables.
+
+**Datos sensibles**, aquellos datos personales que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad, tales como los hábitos personales, el origen racial, las ideologías y opiniones políticas, las creencias o convicciones religiosas, los estados de salud físicos o psíquicos y la vida sexual.
+
+Esta definiciones corresponden a la [LEY 19.628 | SOBRE PROTECCION DE LA VIDA PRIVADA](https://bcn.cl/2eqfn). 
+
+Ahora, volviendo a las lenguas clásica: El griego *μετα* refiere a lo que está "más allá" o "después de" (esa es la razón de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica), denominando a los tratados de Aristóteles que iban más allá de *τα φυσικά*).
 
 Los metadatos van un paso más allá de lo que se da para los razonamientos, debates o cálculos. Este paso ofrece datos de los datos, con funciones descriptivas, estructurales o administrativas.
 
