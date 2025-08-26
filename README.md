@@ -38,7 +38,7 @@ En esa cantidad de horas de trabajo, corresponde *asumir la responsabilidad prin
 
 ### Clase a clase del segundo semestre de 2025
 
-El curso se imparte los días martes, de 15:00 a 18:15 hrs. Este tiempo se divide en dos bloques y dos salas.
+El curso se imparte los días martes, de 15:00 a 18:15 hrs.
 
 El curso comienza a las 15:00 hrs. del martes 12 de agosto y termina a las 18:15 hrs. del martes 25 de noviembre de 2025.
 
